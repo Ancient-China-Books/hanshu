@@ -3,12 +3,12 @@
   <head>
     <meta name="dtb:uid" content="urn:uuid:c15117f7-8d61-4418-8022-380af14d8d55"/>
     <meta name="dtb:depth" content="2"/>
-    <meta name="dtb:generator" content="calibre (5.43.0)"/>
+    <meta name="dtb:generator" content="calibre (5.44.0)"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
   <docTitle>
-    <text>漢書-漢川草廬</text>
+    <text>漢書</text>
   </docTitle>
   <navMap>
     <navPoint id="num_1" playOrder="1">
@@ -19,719 +19,725 @@
     </navPoint>
     <navPoint id="num_2" playOrder="2">
       <navLabel>
+        <text>漢書敍例</text>
+      </navLabel>
+      <content src="Text/000.htm#toc_2"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
         <text>卷一上‧高帝紀第一上</text>
       </navLabel>
       <content src="Text/001.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_3" playOrder="3">
+    <navPoint id="num_4" playOrder="4">
       <navLabel>
         <text>卷一下‧高帝紀第一下</text>
       </navLabel>
       <content src="Text/001b.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_4" playOrder="4">
+    <navPoint id="num_5" playOrder="5">
       <navLabel>
         <text>卷二‧惠帝紀第二</text>
       </navLabel>
       <content src="Text/002.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_5" playOrder="5">
+    <navPoint id="num_6" playOrder="6">
       <navLabel>
         <text>卷三‧高后紀第三</text>
       </navLabel>
       <content src="Text/003.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_6" playOrder="6">
+    <navPoint id="num_7" playOrder="7">
       <navLabel>
         <text>卷四‧文帝紀第四</text>
       </navLabel>
       <content src="Text/004.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_7" playOrder="7">
+    <navPoint id="num_8" playOrder="8">
       <navLabel>
         <text>卷五‧景帝紀第五</text>
       </navLabel>
       <content src="Text/005.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_8" playOrder="8">
+    <navPoint id="num_9" playOrder="9">
       <navLabel>
         <text>卷六‧武帝紀第六</text>
       </navLabel>
       <content src="Text/006.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_9" playOrder="9">
+    <navPoint id="num_10" playOrder="10">
       <navLabel>
         <text>卷七‧昭帝紀第七</text>
       </navLabel>
       <content src="Text/007.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_10" playOrder="10">
+    <navPoint id="num_11" playOrder="11">
       <navLabel>
         <text>卷八‧宣帝紀第八</text>
       </navLabel>
       <content src="Text/008.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_11" playOrder="11">
+    <navPoint id="num_12" playOrder="12">
       <navLabel>
         <text>卷九‧元帝紀第九</text>
       </navLabel>
       <content src="Text/009.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_12" playOrder="12">
+    <navPoint id="num_13" playOrder="13">
       <navLabel>
         <text>卷十‧成帝紀第十</text>
       </navLabel>
       <content src="Text/010.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_13" playOrder="13">
+    <navPoint id="num_14" playOrder="14">
       <navLabel>
         <text>卷十一‧哀帝紀第十一</text>
       </navLabel>
       <content src="Text/011.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_14" playOrder="14">
+    <navPoint id="num_15" playOrder="15">
       <navLabel>
         <text>卷十二‧平帝紀第十二</text>
       </navLabel>
       <content src="Text/012.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_15" playOrder="15">
+    <navPoint id="num_16" playOrder="16">
       <navLabel>
         <text>卷十三‧異姓諸侯王表第一</text>
       </navLabel>
       <content src="Text/013.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_16" playOrder="16">
+    <navPoint id="num_17" playOrder="17">
       <navLabel>
         <text>卷十四‧諸侯王表第二</text>
       </navLabel>
       <content src="Text/014.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_17" playOrder="17">
+    <navPoint id="num_18" playOrder="18">
       <navLabel>
         <text>卷十五上‧王子侯表第三上</text>
       </navLabel>
       <content src="Text/015.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_18" playOrder="18">
+    <navPoint id="num_19" playOrder="19">
       <navLabel>
         <text>卷十五下‧王子侯表第三下</text>
       </navLabel>
       <content src="Text/015b.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_19" playOrder="19">
+    <navPoint id="num_20" playOrder="20">
       <navLabel>
         <text>卷十六‧高惠高后文功臣表第四</text>
       </navLabel>
       <content src="Text/016.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_20" playOrder="20">
+    <navPoint id="num_21" playOrder="21">
       <navLabel>
         <text>卷十七‧景武昭宣元成功臣表第五</text>
       </navLabel>
       <content src="Text/017.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_21" playOrder="21">
+    <navPoint id="num_22" playOrder="22">
       <navLabel>
         <text>卷十八‧外戚恩澤侯表第六</text>
       </navLabel>
       <content src="Text/018.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_22" playOrder="22">
+    <navPoint id="num_23" playOrder="23">
       <navLabel>
         <text>卷十九上‧百官公卿表第七上</text>
       </navLabel>
       <content src="Text/019.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_23" playOrder="23">
+    <navPoint id="num_24" playOrder="24">
       <navLabel>
         <text>卷十九下‧百官公卿表第七下</text>
       </navLabel>
       <content src="Text/019b.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_24" playOrder="24">
+    <navPoint id="num_25" playOrder="25">
       <navLabel>
         <text>卷二十‧古今人表第八</text>
       </navLabel>
       <content src="Text/020.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_25" playOrder="25">
+    <navPoint id="num_26" playOrder="26">
       <navLabel>
         <text>卷二十一上‧律歷志第一上</text>
       </navLabel>
       <content src="Text/021a.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_26" playOrder="26">
+    <navPoint id="num_27" playOrder="27">
       <navLabel>
         <text>卷二十一下‧律歷志第一下</text>
       </navLabel>
       <content src="Text/021b.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_27" playOrder="27">
+    <navPoint id="num_28" playOrder="28">
       <navLabel>
         <text>卷二十二‧禮樂志第二</text>
       </navLabel>
       <content src="Text/022.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_28" playOrder="28">
+    <navPoint id="num_29" playOrder="29">
       <navLabel>
         <text>卷二十三‧刑法志第三</text>
       </navLabel>
       <content src="Text/023.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_29" playOrder="29">
+    <navPoint id="num_30" playOrder="30">
       <navLabel>
         <text>卷二十四上‧食貨志第四上</text>
       </navLabel>
       <content src="Text/024a.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_30" playOrder="30">
+    <navPoint id="num_31" playOrder="31">
       <navLabel>
         <text>卷二十四下‧食貨志第四下</text>
       </navLabel>
       <content src="Text/024b.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_31" playOrder="31">
+    <navPoint id="num_32" playOrder="32">
       <navLabel>
         <text>卷二十五上‧郊祀志第五上</text>
       </navLabel>
       <content src="Text/025a.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_32" playOrder="32">
+    <navPoint id="num_33" playOrder="33">
       <navLabel>
         <text>卷二十五下‧郊祀志第五下</text>
       </navLabel>
       <content src="Text/025b.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_33" playOrder="33">
+    <navPoint id="num_34" playOrder="34">
       <navLabel>
         <text>卷二十六‧天文志第六</text>
       </navLabel>
       <content src="Text/026.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_34" playOrder="34">
+    <navPoint id="num_35" playOrder="35">
       <navLabel>
         <text>卷二十七上‧五行志第七上</text>
       </navLabel>
       <content src="Text/027a.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_35" playOrder="35">
+    <navPoint id="num_36" playOrder="36">
       <navLabel>
         <text>卷二十七中之上‧五行志第七中之上</text>
       </navLabel>
       <content src="Text/027b.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_36" playOrder="36">
+    <navPoint id="num_37" playOrder="37">
       <navLabel>
         <text>卷二十七下之上‧五行志第七下之上</text>
       </navLabel>
       <content src="Text/027c.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_37" playOrder="37">
+    <navPoint id="num_38" playOrder="38">
       <navLabel>
         <text>卷二十七中之下‧五行志第七中之下</text>
       </navLabel>
       <content src="Text/027b1.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_38" playOrder="38">
+    <navPoint id="num_39" playOrder="39">
       <navLabel>
         <text>卷二十七下之下‧五行志第七下之下</text>
       </navLabel>
       <content src="Text/027c1.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_39" playOrder="39">
+    <navPoint id="num_40" playOrder="40">
       <navLabel>
         <text>卷二十八上‧地理志第八上</text>
       </navLabel>
       <content src="Text/028a.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_40" playOrder="40">
+    <navPoint id="num_41" playOrder="41">
       <navLabel>
         <text>卷二十八下‧地理志第八下</text>
       </navLabel>
       <content src="Text/028b.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_41" playOrder="41">
+    <navPoint id="num_42" playOrder="42">
       <navLabel>
         <text>卷二十九‧溝洫志第九</text>
       </navLabel>
       <content src="Text/029.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_42" playOrder="42">
+    <navPoint id="num_43" playOrder="43">
       <navLabel>
         <text>卷三十‧藝文志第十</text>
       </navLabel>
       <content src="Text/030.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_43" playOrder="43">
+    <navPoint id="num_44" playOrder="44">
       <navLabel>
         <text>卷三十一‧陳勝項籍列傳第一</text>
       </navLabel>
       <content src="Text/031.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_44" playOrder="44">
+    <navPoint id="num_45" playOrder="45">
       <navLabel>
         <text>卷三十二‧張耳陳餘列傳第二</text>
       </navLabel>
       <content src="Text/032.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_45" playOrder="45">
+    <navPoint id="num_46" playOrder="46">
       <navLabel>
         <text>卷三十三‧魏豹田儋韓王信傳第三</text>
       </navLabel>
       <content src="Text/033.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_46" playOrder="46">
+    <navPoint id="num_47" playOrder="47">
       <navLabel>
         <text>卷三十四‧韓彭英盧吳傳第四</text>
       </navLabel>
       <content src="Text/034.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_47" playOrder="47">
+    <navPoint id="num_48" playOrder="48">
       <navLabel>
         <text>卷三十五‧荊燕吳傳第五</text>
       </navLabel>
       <content src="Text/035.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_48" playOrder="48">
+    <navPoint id="num_49" playOrder="49">
       <navLabel>
         <text>卷三十六‧楚元王傳第六</text>
       </navLabel>
       <content src="Text/036.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_49" playOrder="49">
+    <navPoint id="num_50" playOrder="50">
       <navLabel>
         <text>卷三十七‧季布欒布田叔傳第七</text>
       </navLabel>
       <content src="Text/037.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_50" playOrder="50">
+    <navPoint id="num_51" playOrder="51">
       <navLabel>
         <text>卷三十八‧高五王傳第八</text>
       </navLabel>
       <content src="Text/038.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_51" playOrder="51">
+    <navPoint id="num_52" playOrder="52">
       <navLabel>
         <text>卷三十九‧蕭何曹參傳第九</text>
       </navLabel>
       <content src="Text/039.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_52" playOrder="52">
+    <navPoint id="num_53" playOrder="53">
       <navLabel>
         <text>卷四十‧張陳王周傳第十</text>
       </navLabel>
       <content src="Text/040.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_53" playOrder="53">
+    <navPoint id="num_54" playOrder="54">
       <navLabel>
         <text>卷四十一‧樊酈滕灌傅靳周傳第十一</text>
       </navLabel>
       <content src="Text/041.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_54" playOrder="54">
+    <navPoint id="num_55" playOrder="55">
       <navLabel>
         <text>卷四十二‧張周趙任申屠傳第十二</text>
       </navLabel>
       <content src="Text/042.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_55" playOrder="55">
+    <navPoint id="num_56" playOrder="56">
       <navLabel>
         <text>卷四十三‧酈陸朱劉叔孫傳第十三</text>
       </navLabel>
       <content src="Text/043.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_56" playOrder="56">
+    <navPoint id="num_57" playOrder="57">
       <navLabel>
         <text>卷四十四‧淮南衡山濟北王傳第十四</text>
       </navLabel>
       <content src="Text/044.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_57" playOrder="57">
+    <navPoint id="num_58" playOrder="58">
       <navLabel>
         <text>卷四十五‧蒯伍江息夫傳第十五</text>
       </navLabel>
       <content src="Text/045.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_58" playOrder="58">
+    <navPoint id="num_59" playOrder="59">
       <navLabel>
         <text>卷四十六‧萬石衞直周張傳第十六</text>
       </navLabel>
       <content src="Text/046.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_59" playOrder="59">
+    <navPoint id="num_60" playOrder="60">
       <navLabel>
         <text>卷四十七‧文三王傳第十七</text>
       </navLabel>
       <content src="Text/047.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_60" playOrder="60">
+    <navPoint id="num_61" playOrder="61">
       <navLabel>
         <text>卷四十八‧賈誼傳第十八</text>
       </navLabel>
       <content src="Text/048.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_61" playOrder="61">
+    <navPoint id="num_62" playOrder="62">
       <navLabel>
         <text>卷四十九‧爰盎鼂錯傳第十九</text>
       </navLabel>
       <content src="Text/049.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_62" playOrder="62">
+    <navPoint id="num_63" playOrder="63">
       <navLabel>
         <text>卷五十‧張馮汲鄭傳第二十</text>
       </navLabel>
       <content src="Text/050.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_63" playOrder="63">
+    <navPoint id="num_64" playOrder="64">
       <navLabel>
         <text>卷五十一‧賈鄒枚路傳第二十一</text>
       </navLabel>
       <content src="Text/051.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_64" playOrder="64">
+    <navPoint id="num_65" playOrder="65">
       <navLabel>
         <text>卷五十二‧竇田灌韓傳第二十二</text>
       </navLabel>
       <content src="Text/052.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_65" playOrder="65">
+    <navPoint id="num_66" playOrder="66">
       <navLabel>
         <text>卷五十三‧景十三王傳第二十三</text>
       </navLabel>
       <content src="Text/053.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_66" playOrder="66">
+    <navPoint id="num_67" playOrder="67">
       <navLabel>
         <text>卷五十四‧李廣蘇建傳第二十四</text>
       </navLabel>
       <content src="Text/054.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_67" playOrder="67">
+    <navPoint id="num_68" playOrder="68">
       <navLabel>
         <text>卷五十五‧衞青霍去病傳第二十五</text>
       </navLabel>
       <content src="Text/055.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_68" playOrder="68">
+    <navPoint id="num_69" playOrder="69">
       <navLabel>
         <text>卷五十六‧董仲舒傳第二十六</text>
       </navLabel>
       <content src="Text/056.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_69" playOrder="69">
+    <navPoint id="num_70" playOrder="70">
       <navLabel>
         <text>卷五十七上‧司馬相如傳第二十七上</text>
       </navLabel>
       <content src="Text/057.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_70" playOrder="70">
+    <navPoint id="num_71" playOrder="71">
       <navLabel>
         <text>卷五十七下‧司馬相如傳第二十七下</text>
       </navLabel>
       <content src="Text/057b.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_71" playOrder="71">
+    <navPoint id="num_72" playOrder="72">
       <navLabel>
         <text>卷五十八‧公孫弘卜式兒寬傳第二十八</text>
       </navLabel>
       <content src="Text/058.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_72" playOrder="72">
+    <navPoint id="num_73" playOrder="73">
       <navLabel>
         <text>卷五十九‧張湯傳第二十九</text>
       </navLabel>
       <content src="Text/059.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_73" playOrder="73">
+    <navPoint id="num_74" playOrder="74">
       <navLabel>
         <text>卷六十‧杜周傳第三十</text>
       </navLabel>
       <content src="Text/060.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_74" playOrder="74">
+    <navPoint id="num_75" playOrder="75">
       <navLabel>
         <text>卷六十一‧張騫李廣利傳第三十一</text>
       </navLabel>
       <content src="Text/061.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_75" playOrder="75">
+    <navPoint id="num_76" playOrder="76">
       <navLabel>
         <text>卷六十二‧司馬遷傳第三十二</text>
       </navLabel>
       <content src="Text/062.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_76" playOrder="76">
+    <navPoint id="num_77" playOrder="77">
       <navLabel>
         <text>卷六十三‧武五子傳第三十三</text>
       </navLabel>
       <content src="Text/063.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_77" playOrder="77">
+    <navPoint id="num_78" playOrder="78">
       <navLabel>
         <text>卷六十四上‧嚴朱吾丘主父徐嚴終王賈傳第三十四上</text>
       </navLabel>
       <content src="Text/064.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_78" playOrder="78">
+    <navPoint id="num_79" playOrder="79">
       <navLabel>
         <text>卷六十四下‧嚴朱吾丘主父徐嚴終王賈傳第三十四下</text>
       </navLabel>
       <content src="Text/064b.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_79" playOrder="79">
+    <navPoint id="num_80" playOrder="80">
       <navLabel>
         <text>卷六十五‧東方朔傳第三十五</text>
       </navLabel>
       <content src="Text/065.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_80" playOrder="80">
+    <navPoint id="num_81" playOrder="81">
       <navLabel>
         <text>卷六十六‧公孫劉田王楊蔡陳鄭傳第三十六</text>
       </navLabel>
       <content src="Text/066.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_81" playOrder="81">
+    <navPoint id="num_82" playOrder="82">
       <navLabel>
         <text>卷六十七‧楊胡朱梅云傳第三十七</text>
       </navLabel>
       <content src="Text/067.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_82" playOrder="82">
+    <navPoint id="num_83" playOrder="83">
       <navLabel>
         <text>卷六十八‧霍光金日磾傳第三十八</text>
       </navLabel>
       <content src="Text/068.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_83" playOrder="83">
+    <navPoint id="num_84" playOrder="84">
       <navLabel>
         <text>卷六十九‧趙充國辛慶忌傳第三十九</text>
       </navLabel>
       <content src="Text/069.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_84" playOrder="84">
+    <navPoint id="num_85" playOrder="85">
       <navLabel>
         <text>卷七十‧傅常鄭甘陳段傳第四十</text>
       </navLabel>
       <content src="Text/070.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_85" playOrder="85">
+    <navPoint id="num_86" playOrder="86">
       <navLabel>
         <text>卷七十一‧雋疏于薛平彭傳第四十一</text>
       </navLabel>
       <content src="Text/071.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_86" playOrder="86">
+    <navPoint id="num_87" playOrder="87">
       <navLabel>
         <text>卷七十二‧王貢兩龔鮑傳第四十二</text>
       </navLabel>
       <content src="Text/072.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_87" playOrder="87">
+    <navPoint id="num_88" playOrder="88">
       <navLabel>
         <text>卷七十三‧韋賢傳第四十三</text>
       </navLabel>
       <content src="Text/073.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_88" playOrder="88">
+    <navPoint id="num_89" playOrder="89">
       <navLabel>
         <text>卷七十四‧魏相丙吉傳第四十四</text>
       </navLabel>
       <content src="Text/074.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_89" playOrder="89">
+    <navPoint id="num_90" playOrder="90">
       <navLabel>
         <text>卷七十五‧眭兩夏侯京翼李傳第四十五</text>
       </navLabel>
       <content src="Text/075.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_90" playOrder="90">
+    <navPoint id="num_91" playOrder="91">
       <navLabel>
         <text>卷七十六‧趙尹韓張兩王傳第四十六</text>
       </navLabel>
       <content src="Text/076.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_91" playOrder="91">
+    <navPoint id="num_92" playOrder="92">
       <navLabel>
         <text>卷七十七‧蓋諸葛劉鄭孫毋將何傳第四十七</text>
       </navLabel>
       <content src="Text/077.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_92" playOrder="92">
+    <navPoint id="num_93" playOrder="93">
       <navLabel>
         <text>卷七十八‧蕭望之傳第四十八</text>
       </navLabel>
       <content src="Text/078.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_93" playOrder="93">
+    <navPoint id="num_94" playOrder="94">
       <navLabel>
         <text>卷七十九‧馮奉世傳第四十九</text>
       </navLabel>
       <content src="Text/079.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_94" playOrder="94">
+    <navPoint id="num_95" playOrder="95">
       <navLabel>
         <text>卷八十‧宣元六王傳第五十</text>
       </navLabel>
       <content src="Text/080.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_95" playOrder="95">
+    <navPoint id="num_96" playOrder="96">
       <navLabel>
         <text>卷八十一‧匡張孔馬傳第五十一</text>
       </navLabel>
       <content src="Text/081.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_96" playOrder="96">
+    <navPoint id="num_97" playOrder="97">
       <navLabel>
         <text>卷八十二‧王商史丹傅喜傳第五十二</text>
       </navLabel>
       <content src="Text/082.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_97" playOrder="97">
+    <navPoint id="num_98" playOrder="98">
       <navLabel>
         <text>卷八十三‧薛宣朱博傳第五十三</text>
       </navLabel>
       <content src="Text/083.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_98" playOrder="98">
+    <navPoint id="num_99" playOrder="99">
       <navLabel>
         <text>卷八十四‧翟方進傳第五十四</text>
       </navLabel>
       <content src="Text/084.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_99" playOrder="99">
+    <navPoint id="num_100" playOrder="100">
       <navLabel>
         <text>卷八十五‧谷永杜鄴傳第五十五</text>
       </navLabel>
       <content src="Text/085.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_100" playOrder="100">
+    <navPoint id="num_101" playOrder="101">
       <navLabel>
         <text>卷八十六‧何武王嘉師丹傳第五十六</text>
       </navLabel>
       <content src="Text/086.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_101" playOrder="101">
+    <navPoint id="num_102" playOrder="102">
       <navLabel>
         <text>卷八十七上‧揚雄傳第五十七上</text>
       </navLabel>
       <content src="Text/087.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_102" playOrder="102">
+    <navPoint id="num_103" playOrder="103">
       <navLabel>
         <text>卷八十七下‧揚雄傳第五十七下</text>
       </navLabel>
       <content src="Text/087b.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_103" playOrder="103">
+    <navPoint id="num_104" playOrder="104">
       <navLabel>
         <text>卷八十八‧儒林傳第五十八</text>
       </navLabel>
       <content src="Text/088.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_104" playOrder="104">
+    <navPoint id="num_105" playOrder="105">
       <navLabel>
         <text>卷八十九‧循吏傳第五十九</text>
       </navLabel>
       <content src="Text/089.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_105" playOrder="105">
+    <navPoint id="num_106" playOrder="106">
       <navLabel>
         <text>卷九十‧酷吏傳第六十</text>
       </navLabel>
       <content src="Text/090.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_106" playOrder="106">
+    <navPoint id="num_107" playOrder="107">
       <navLabel>
         <text>卷九十一‧貨殖傳第六十一</text>
       </navLabel>
       <content src="Text/091.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_107" playOrder="107">
+    <navPoint id="num_108" playOrder="108">
       <navLabel>
         <text>卷九十二‧游俠傳第六十二</text>
       </navLabel>
       <content src="Text/092.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_108" playOrder="108">
+    <navPoint id="num_109" playOrder="109">
       <navLabel>
         <text>卷九十三‧佞幸傳第六十三</text>
       </navLabel>
       <content src="Text/093.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_109" playOrder="109">
+    <navPoint id="num_110" playOrder="110">
       <navLabel>
         <text>卷九十四上‧匈奴傳第六十四上</text>
       </navLabel>
       <content src="Text/094a.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_110" playOrder="110">
+    <navPoint id="num_111" playOrder="111">
       <navLabel>
         <text>卷九十四下‧匈奴傳第六十四下</text>
       </navLabel>
       <content src="Text/094b.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_111" playOrder="111">
+    <navPoint id="num_112" playOrder="112">
       <navLabel>
         <text>卷九十五‧西南夷兩粵朝鮮傳第六十五</text>
       </navLabel>
       <content src="Text/095.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_112" playOrder="112">
+    <navPoint id="num_113" playOrder="113">
       <navLabel>
         <text>卷九十六上‧西域傳第六十六上</text>
       </navLabel>
       <content src="Text/096a.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_113" playOrder="113">
+    <navPoint id="num_114" playOrder="114">
       <navLabel>
         <text>卷九十六下‧西域傳第六十六下</text>
       </navLabel>
       <content src="Text/096b.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_114" playOrder="114">
+    <navPoint id="num_115" playOrder="115">
       <navLabel>
         <text>卷九十七上‧外戚傳第六十七上</text>
       </navLabel>
       <content src="Text/097a.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_115" playOrder="115">
+    <navPoint id="num_116" playOrder="116">
       <navLabel>
         <text>卷九十七下‧外戚傳第六十七下</text>
       </navLabel>
       <content src="Text/097b.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_116" playOrder="116">
+    <navPoint id="num_117" playOrder="117">
       <navLabel>
         <text>卷九十八‧元后傳第六十八</text>
       </navLabel>
       <content src="Text/098.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_117" playOrder="117">
+    <navPoint id="num_118" playOrder="118">
       <navLabel>
         <text>卷九十九上‧王莽傳第六十九上</text>
       </navLabel>
       <content src="Text/099a.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_118" playOrder="118">
+    <navPoint id="num_119" playOrder="119">
       <navLabel>
         <text>卷九十九中‧王莽傳第六十九中</text>
       </navLabel>
       <content src="Text/099b.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_119" playOrder="119">
+    <navPoint id="num_120" playOrder="120">
       <navLabel>
         <text>卷九十九下‧王莽傳第六十九下</text>
       </navLabel>
       <content src="Text/099c.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_120" playOrder="120">
+    <navPoint id="num_121" playOrder="121">
       <navLabel>
         <text>卷一百上‧敘傳第七十上</text>
       </navLabel>
       <content src="Text/100.htm#toc_1"/>
     </navPoint>
-    <navPoint id="num_121" playOrder="121">
+    <navPoint id="num_122" playOrder="122">
       <navLabel>
         <text>卷一百下‧敘傳第七十下</text>
       </navLabel>
