@@ -193,7 +193,6 @@
     <item id="id" href="NotoSerifTC-Medium.otf" media-type="application/vnd.ms-opentype"/>
   </manifest>
   <spine toc="ncx" page-progression-direction="ltr">
-    <itemref idref="id34"/>
     <itemref idref="a02.htm"/>
     <itemref idref="x000.htm"/>
     <itemref idref="x001.htm"/>
