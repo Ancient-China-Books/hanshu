@@ -1,12 +1,12 @@
 <?xml version="1.0"  encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="ueQw89qvFmVZqBfucq5sygC">
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uEipcYOOqYuSd7MwHBK4tiB">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:title>漢書</dc:title>
     <dc:creator opf:role="aut" opf:file-as="班固/撰 &amp; 顏師古/注">班固/撰</dc:creator>
     <dc:creator opf:role="aut">顏師古/注</dc:creator>
     <dc:date>2010-06-30T16:00:00+00:00</dc:date>
-    <dc:identifier id="uuid_id" opf:scheme="uuid">96ffcde3-ed78-49a8-bae4-61242408a379</dc:identifier>
     <dc:publisher>台灣商務印書館</dc:publisher>
+    <dc:identifier id="uEipcYOOqYuSd7MwHBK4tiB" opf:scheme="uuid">uEipcYOOqYuSd7MwHBK4tiB</dc:identifier>
     <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:description>&lt;div&gt;
 &lt;p&gt;&lt;span style="font-family: 'Cascadia Code'; color: #000000"&gt;基於「&lt;/span&gt;&lt;a href="http://www.sidneyluo.net/a/a02/a02.htm"&gt;&lt;span style="font-family: 'Cascadia Code'; color: #2980b9"&gt;漢川草廬&lt;/span&gt;&lt;/a&gt;&lt;span style="font-family: 'Cascadia Code'; color: #000000"&gt;」重製電子版。&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -21,7 +21,7 @@
     <dc:subject>中国历史</dc:subject>
     <dc:subject>中国</dc:subject>
     <dc:language>zh</dc:language>
-    <dc:identifier opf:scheme="calibre">58df3f09-5cc8-459c-93d0-8494bb0782b2</dc:identifier>
+    <dc:identifier opf:scheme="calibre">0dcd6f56-b453-4ec2-bf6d-a76ab6be2739</dc:identifier>
     <dc:identifier opf:scheme="ISBN">9789570525052</dc:identifier>
     <dc:identifier opf:scheme="NEW_DOUBAN">6426162</dc:identifier>
     <meta name="calibre:title_sort" content="漢書"/>
