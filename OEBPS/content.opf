@@ -5,7 +5,7 @@
     <dc:creator opf:role="aut" opf:file-as="班固/撰 &amp; 顏師古/注">班固/撰</dc:creator>
     <dc:creator opf:role="aut">顏師古/注</dc:creator>
     <dc:date>2010-06-30T16:00:00+00:00</dc:date>
-    <dc:identifier id="ueQw89qvFmVZqBfucq5sygC" opf:scheme="uuid">ueQw89qvFmVZqBfucq5sygC</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">96ffcde3-ed78-49a8-bae4-61242408a379</dc:identifier>
     <dc:publisher>台灣商務印書館</dc:publisher>
     <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:description>&lt;div&gt;
@@ -31,7 +31,6 @@
     <meta name="cover" content="cover"/>
   </metadata>
   <manifest>
-    <item id="a02.htm" href="Text/a02.htm" media-type="application/xhtml+xml"/>
     <item id="x000.htm" href="Text/000.htm" media-type="application/xhtml+xml"/>
     <item id="x001.htm" href="Text/001.htm" media-type="application/xhtml+xml"/>
     <item id="x001b.htm" href="Text/001b.htm" media-type="application/xhtml+xml"/>
@@ -194,7 +193,6 @@
     <item id="main.js" href="Styles/main.js" media-type="application/javascript"/>
   </manifest>
   <spine toc="ncx" page-progression-direction="ltr">
-    <itemref idref="a02.htm"/>
     <itemref idref="x000.htm"/>
     <itemref idref="x001.htm"/>
     <itemref idref="x001b.htm"/>
