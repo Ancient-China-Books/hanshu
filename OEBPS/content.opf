@@ -156,10 +156,8 @@
     <item id="boilerplate.css" href="Styles/boilerplate.css" media-type="text/css"/>
     <item id="Layout01.css" href="Styles/Layout01.css" media-type="text/css"/>
     <item id="id1" href="Images/1007.gif" media-type="image/gif"/>
-    <item id="id3" href="Images/1017.gif" media-type="image/gif"/>
     <item id="id9" href="Images/1088.gif" media-type="image/gif"/>
     <item id="id11" href="Images/1095.gif" media-type="image/gif"/>
-    <item id="id32" href="Images/a203.jpg" media-type="image/jpeg"/>
     <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
     <item id="id" href="NotoSerifTC-Medium.otf" media-type="application/vnd.ms-opentype"/>
     <item id="fsung-2" href="FSung-2.ttf" media-type="application/x-font-truetype"/>
