@@ -380,3 +380,9 @@ p:hover .gg-link {
   text-decoration: currentColor wavy underline;
   text-decoration-thickness: 1px;
 }*/
+h2 {
+  font-size: large;
+  letter-spacing: 3px;
+  margin: 0;
+  padding: 0;
+}
