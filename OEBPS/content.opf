@@ -2,11 +2,11 @@
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uEipcYOOqYuSd7MwHBK4tiB">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:title>漢書</dc:title>
-    <dc:creator opf:role="aut" opf:file-as="班固 &amp; 顏師古">班固</dc:creator>
-    <dc:creator opf:role="aut">顏師古</dc:creator>
+    <dc:creator opf:role="aut" opf:file-as="東漢·班固 &amp; 唐·顏師古">東漢·班固</dc:creator>
+    <dc:creator opf:role="aut">唐·顏師古</dc:creator>
     <dc:date>0101-01-01T00:00:00+00:00</dc:date>
     <dc:identifier id="uEipcYOOqYuSd7MwHBK4tiB" opf:scheme="uuid">uEipcYOOqYuSd7MwHBK4tiB</dc:identifier>
-    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:contributor opf:role="bkp">calibre (6.4.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:description>&lt;div&gt;
 &lt;p&gt;東漢班固撰。固父班彪，以史記自武帝太初以後，闕而不錄，於是作後傳六十五篇。固以其父所續未詳，又綴集所聞，整理補充，以撰漢書；後因竇憲事被捕，死於獄中，全書未竟。和帝詔固妹昭就東觀藏書續成之。全書分十二紀、八表、十志、七十列傳共百篇，後人分爲一百二十卷，記載自劉邦（高祖）元年至王莽地皇四年二百三十年間主要事迹。爲我國第一部紀傳體斷代史。本書多用古字，向稱難讀。漢以後注者數十家，通行者爲唐顔師古注本，共一百二十卷。清王先謙補注一百卷，採輯尤詳。近人楊樹達著漢書窺管，對王氏補注，復有所補正。&lt;/p&gt;
 &lt;p&gt;基於「漢川草廬」重製電子版。&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -16,9 +16,9 @@
     <dc:subject>漢書</dc:subject>
     <dc:subject>二十四史</dc:subject>
     <dc:language>zh</dc:language>
-    <dc:identifier opf:scheme="calibre">9a7caf93-8dcc-4ff5-8e73-8b6544843ae2</dc:identifier>
+    <dc:identifier opf:scheme="calibre">c7fcac10-2d48-4486-a26f-c30b1d6bf9f0</dc:identifier>
     <meta name="calibre:title_sort" content="漢書"/>
-    <meta name="calibre:author_link_map" content="{&quot;班固&quot;: &quot;&quot;, &quot;顏師古&quot;: &quot;&quot;}"/>
+    <meta name="calibre:author_link_map" content="{&quot;東漢·班固&quot;: &quot;&quot;, &quot;唐·顏師古&quot;: &quot;&quot;}"/>
     <meta name="calibre:series" content="百衲本二十四史"/>
     <meta name="calibre:series_index" content="1.0"/>
     <meta name="cover" content="cover"/>
@@ -150,10 +150,10 @@
     <item id="boilerplate.css" href="Styles/boilerplate.css" media-type="text/css"/>
     <item id="Layout01.css" href="Styles/Layout01.css" media-type="text/css"/>
     <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item id="biaodian" href="biaodian.otf" media-type="application/vnd.ms-opentype"/>
     <item id="fsung-2" href="FSung-2.ttf" media-type="application/x-font-truetype"/>
     <item id="fsung-f" href="FSung-F.ttf" media-type="application/x-font-truetype"/>
     <item id="noto-sc" href="NotoSerifSC-Medium.otf" media-type="application/vnd.ms-opentype"/>
-    <item id="biaodian" href="biaodian.otf" media-type="application/vnd.ms-opentype"/>
     <item id="main.js" href="Styles/main.js" media-type="application/javascript"/>
   </manifest>
   <spine toc="ncx" page-progression-direction="ltr">
